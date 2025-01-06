@@ -1,0 +1,20 @@
+<section id="video-section" class="ftco-section">
+    <div class="container">
+      <div class="row justify-content-center mb-5">
+        <div class="col-md-7 heading-section text-center">
+          <h2>My Video Showcase</h2>
+          <p>Here's a sample of my editing work:</p>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-md-8">
+          <video controls class="w-100" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+            <source src="assets/videos/example-video.mp4" type="video/mp4">
+            <source src="assets/videos/example-video.webm" type="video/webm">
+            Your browser does not support the video tag.
+          </video>
+        </div>
+      </div>
+    </div>
+  </section>
+  
